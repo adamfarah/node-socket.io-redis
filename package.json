@@ -1,0 +1,27 @@
+{
+  "name": "node-socket.io-redis",
+  "version": "0.0.1",
+  "description": "Node app to stream GPS location updates and persist them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamfarah/node-socket.io-redis.git"
+  },
+  "keywords": [
+    "node",
+    "gps",
+    "redis",
+    "socket.io",
+    "websocket",
+    "javascript"
+  ],
+  "author": "Adam Farah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamfarah/node-socket.io-redis/issues"
+  },
+  "homepage": "https://github.com/adamfarah/node-socket.io-redis"
+}
